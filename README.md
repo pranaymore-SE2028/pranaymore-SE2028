@@ -5,10 +5,8 @@ I am a passionate software engineer with a strong interest in developing innovat
 I enjoy learning new technologies and constantly improving my skills. My experience spans across various programming languages and frameworks, and I love contributing to open-source projects.
 
 ## 🔧 Technologies & Tools
-- **Languages:** Python, JavaScript, Java, C++
-- **Web Development:** HTML, CSS, React, Node.js
-- **Databases:** MySQL, MongoDB
-- **DevOps:** Docker, Kubernetes, Jenkins
+- **Languages:** C, JavaScript, Java, C++
+- **Web Development:** HTML, CSS.
 - **Cloud:** AWS, Azure
 - **Version Control:** Git, GitHub
 
